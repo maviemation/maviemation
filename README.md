@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning a lot of things
 
 <!---
-
+Pleasure to meet you!
 --->
